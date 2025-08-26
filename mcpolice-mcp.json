@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mcpolice": {
+      "url": "http://localhost:8787"
+    }
+  }
+}

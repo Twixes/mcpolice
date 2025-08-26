@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mcpolice",
+  "compatibility_date": "2024-04-01",
+  "main": "./src/index.tsx",
+  "kv_namespaces": [
+    {
+      "binding": "VIOLATIONS_KV",
+      "id": "violations_namespace",
+      "preview_id": "violations_namespace_preview"
+    }
+  ]
+}
