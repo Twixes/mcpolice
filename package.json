@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@anthropic-ai/claude-code": "^1.0.27",
-    "@modelcontextprotocol/sdk": "^1.12.3",
+    "@modelcontextprotocol/sdk": "^1.24.0",
     "hono": "^4.7.11"
   },
   "devDependencies": {
